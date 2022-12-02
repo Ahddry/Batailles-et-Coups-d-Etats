@@ -2,6 +2,8 @@
 
 Projet du premier semestre de deuxième année à l'ECE d'un jeu de cartes à jouer et collectionner inspiré de Pokémon
 
+![Menu principal - Batailles et coups d'Etats](image/b&ce.jpg)
+
 ## A propos
 
 Il s'agit d'un jeu de cartes à jouer et collectionner inspiré de Pokémon. Il est développé en **C++** avec la bibliothèque graphique primitive **Allegro**. Le thème général est celui de la guerre et de la politique. Les cartes sont des personnages historiques ou des armes. Le but du jeu est de battre son adversaire en lui infligeant le plus de dégâts possibles. Le jeu est jouable à deux joueurs sur un même ordinateur ou à un joueur contre l'ordinateur.
