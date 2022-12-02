@@ -1,6 +1,8 @@
 # Batailles-et-Coups-d'Etats
 
-Projet du premier semestre de deuxième année à l'ECE d'un jeu de cartes à jouer et collectionner inspiré de Pokémon
+Projet du premier semestre de deuxième année à l'ECE en Informatique.
+
+Jeu de cartes à jouer et collectionner inspiré de Pokémon en C++.
 
 ![Menu principal - Batailles et coups d'Etats](image/b&ce.jpg)
 
