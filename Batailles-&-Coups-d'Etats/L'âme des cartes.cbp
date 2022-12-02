@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="L&apos;âme des cartes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/L&apos;âme des cartes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="loadpng" />
+					<Add library="png16.dll" />
+					<Add library="jpgalleg" />
+					<Add library="alleg44.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/L&apos;âme des cartes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Attaque.cpp" />
+		<Unit filename="Attaque.h" />
+		<Unit filename="Boutique.cpp" />
+		<Unit filename="Boutique.h" />
+		<Unit filename="Cartes.cpp" />
+		<Unit filename="Cartes.h" />
+		<Unit filename="Deck.cpp" />
+		<Unit filename="Deck.h" />
+		<Unit filename="Dirigeant.cpp" />
+		<Unit filename="Dirigeant.h" />
+		<Unit filename="Energie.cpp" />
+		<Unit filename="Energie.h" />
+		<Unit filename="Jeu.cpp" />
+		<Unit filename="Jeu.h" />
+		<Unit filename="Joueur.cpp" />
+		<Unit filename="Joueur.h" />
+		<Unit filename="Menus.cpp" />
+		<Unit filename="Menus.h" />
+		<Unit filename="Pouvoir.cpp" />
+		<Unit filename="Pouvoir.h" />
+		<Unit filename="Scores.cpp" />
+		<Unit filename="Scores.h" />
+		<Unit filename="Speciale.cpp" />
+		<Unit filename="Speciale.h" />
+		<Unit filename="Switch.cpp" />
+		<Unit filename="Switch.h" />
+		<Unit filename="Terrain.cpp" />
+		<Unit filename="Terrain.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

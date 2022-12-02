@@ -1,0 +1,274 @@
+DIRIGEANT
+Qin Shi Huang
+3
+Attaque eclair
+Militaire
+Unification
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Sun Tzu
+4
+Attaque eclair 
+Militaire
+L'Art de la Guerre
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Henry VIII
+3
+Guerre Sainte
+Religieux
+Divorce
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Moctezuma
+4
+Guerre Sainte
+Religieux
+Quetzalcoalt
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Barberousse
+6
+Guerre Sainte
+Religieux
+L'empereur endormi
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Cresus
+3
+Ressource de luxe
+Economique
+Pactole
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Victoria
+4
+Ressource de luxe
+Economique
+Pax britannica
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Gandhi
+3
+Rethorique
+Politique
+Satyagraha
+Politique
+Politique
+Any
+Politique
+
+DIRIGEANT
+Pericles
+4
+Rethorique
+Politique
+Democratie
+Politique
+Politique
+Any
+Politique
+
+ENERGIE
+Troupes
+Militaire
+Forces armees.# 
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Partisants
+Politique
+Combattant n'appartenant# pas a une armee reguliere# et luttant pour un# ideal national, politique.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Or
+Economique
+Metal d'un jaune brillant,# dense, tres ductile,# inalterable a l'air et a# l'eau et qui a une tres grande# valeur commerciale.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Fanatiques
+Religieux
+Qui est emporte par une# ardeur excessive,# une passion demesuree# pour une religion.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Troupes
+Militaire
+Forces armees.# 
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Partisants
+Politique
+Combattant n'appartenant# pas a une armee reguliere# et luttant pour un# ideal national, politique.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Or
+Economique
+Metal d'un jaune brillant,# dense, tres ductile,# inalterable a l'air et a# l'eau et qui a une tres grande# valeur commerciale.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Fanatiques
+Religieux
+Qui est emporte par une# ardeur excessive,# une passion demesuree# pour une religion.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Troupes
+Militaire
+Forces armees.# 
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Partisants
+Politique
+Combattant n'appartenant# pas a une armee reguliere# et luttant pour un# ideal national, politique.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Or
+Economique
+Metal d'un jaune brillant,# dense, tres ductile,# inalterable a l'air et a# l'eau et qui a une tres grande# valeur commerciale.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Fanatiques
+Religieux
+Qui est emporte par une# ardeur excessive,# une passion demesuree# pour une religion.
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Mines d'OR
+Les dirigeants economiques# gagnent 2 PV.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Trebuchet
+Double l'attaque des dirigeants# militaires.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Genocide
+Les dirigeants non-politiques# perdent 2 points de vie.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Croisade
+Donne 3 Pouvoirs Religieuxx# et 1 Pouvoir Militaire
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide

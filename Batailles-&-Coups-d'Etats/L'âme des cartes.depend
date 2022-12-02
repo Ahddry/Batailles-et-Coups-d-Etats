@@ -1,0 +1,696 @@
+# depslib dependency file v1.0
+1605542421 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\main.cpp
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Joueur.h"
+	"Deck.h"
+	"Jeu.h"
+	<iostream>
+	<vector>
+
+1605513311 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\cartes.cpp
+	"Cartes.h"
+	<string>
+	<iostream>
+
+1605513311 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\cartes.h
+	"Pouvoir.h"
+	<string>
+
+1605535834 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\deck.cpp
+	"Deck.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<fstream>
+	<string>
+
+1605383687 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\deck.h
+	"Deck.h"
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Pouvoir.h"
+	"Attaque.h"
+	<string>
+	<vector>
+
+1605384398 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\pouvoir.cpp
+	"Pouvoir.h"
+	<string>
+	<iostream>
+
+1604694298 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\pouvoir.h
+	<string>
+
+1605384398 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\attaque.cpp
+	"Attaque.h"
+	<iostream>
+
+1604693714 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\attaque.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1605530685 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\dirigeant.cpp
+	"Dirigeant.h"
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1605513311 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\dirigeant.h
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+
+1604231680 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\constructcarte.cpp
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<vector>
+
+1604605522 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\constructcarte.cpp
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	<string>
+	<iostream>
+	<vector>
+
+1604605522 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\constructcarte.h
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+
+1605513311 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\energie.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+
+1605513311 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\energie.cpp
+	"Energie.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1604349703 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\fichierdeck.cpp
+	"fichierdeck.h"
+	"Pouvoir.h"
+	<vector>
+	<iostream>
+	<fstream>
+	<string>
+
+1604349703 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\fichierdeck.h
+	"Deck.h"
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Pouvoir.h"
+	"Attaque.h"
+	<string>
+
+1605529699 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\joueur.cpp
+	<iostream>
+	<vector>
+	"Joueur.h"
+	<fstream>
+	<string>
+	<windows.h>
+	"Deck.h"
+
+1605529546 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\joueur.h
+	<vector>
+	"Deck.h"
+
+1605543901 source:c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\jeu.cpp
+	"Jeu.h"
+	"Joueur.h"
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605535834 c:\users\blair\onedrive\documents\travail\informatique\projet\tests\l'âme des cartes\jeu.h
+	"Joueur.h"
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Deck.h"
+	<string>
+	<vector>
+
+1605384398 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\attaque.cpp
+	"Attaque.h"
+	<iostream>
+
+1604693714 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\attaque.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1604694298 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\pouvoir.h
+	<string>
+
+1605513311 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\cartes.cpp
+	"Cartes.h"
+	<string>
+	<iostream>
+
+1605513311 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\cartes.h
+	"Pouvoir.h"
+	<string>
+
+1605543937 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\deck.cpp
+	"Deck.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<fstream>
+	<string>
+
+1605383687 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\deck.h
+	"Deck.h"
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Pouvoir.h"
+	"Attaque.h"
+	<string>
+	<vector>
+
+1605513311 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\energie.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+
+1605513311 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\dirigeant.h
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+
+1605530685 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\dirigeant.cpp
+	"Dirigeant.h"
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1605513311 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\energie.cpp
+	"Energie.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1605543901 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\jeu.cpp
+	"Jeu.h"
+	"Joueur.h"
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605535834 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\jeu.h
+	"Joueur.h"
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Deck.h"
+	<string>
+	<vector>
+
+1605557604 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\joueur.h
+	<vector>
+	"Deck.h"
+
+1605558450 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\main.cpp
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Joueur.h"
+	"Deck.h"
+	"Jeu.h"
+	"Boutique.h"
+	<iostream>
+	<vector>
+
+1605384398 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\pouvoir.cpp
+	"Pouvoir.h"
+	<string>
+	<iostream>
+
+1605557604 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\joueur.cpp
+	<iostream>
+	<vector>
+	"Joueur.h"
+	<fstream>
+	<string>
+	<windows.h>
+	"Deck.h"
+
+1605558399 source:c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\boutique.cpp
+	"Boutique.h"
+	<iostream>
+	"Deck.h"
+	"Joueur.h"
+
+1605558381 c:\users\aurel\desktop\cours\ece\ing2\projet info\l'âme des cartes\boutique.h
+	<iostream>
+	"Deck.h"
+	"Joueur.h"
+
+1606662878 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\attaque.cpp
+	"Attaque.h"
+	<iostream>
+
+1606662878 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\attaque.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1607030115 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\pouvoir.h
+	<string>
+
+1607108019 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\boutique.cpp
+	"Boutique.h"
+	<iostream>
+	"Deck.h"
+	"Joueur.h"
+	<string>
+	<vector>
+
+1607029761 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\boutique.h
+	"Deck.h"
+	"Joueur.h"
+	"Terrain.h"
+
+1607029796 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\deck.h
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Pouvoir.h"
+	"Attaque.h"
+	"Speciale.h"
+	<string>
+	<vector>
+
+1606444785 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\cartes.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1606664615 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\energie.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+
+1606663099 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\dirigeant.h
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+
+1607029996 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\joueur.h
+	"Cartes.h"
+	"Deck.h"
+	<vector>
+	"Terrain.h"
+
+1606745259 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\cartes.cpp
+	"Cartes.h"
+	<string>
+	<iostream>
+
+1606587396 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\deck.cpp
+	"Deck.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<fstream>
+	<string>
+
+1606663099 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\dirigeant.cpp
+	"Dirigeant.h"
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1606664615 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\energie.cpp
+	"Energie.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1607106085 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\jeu.cpp
+	"Jeu.h"
+	"Joueur.h"
+	"Scores.h"
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607029888 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\jeu.h
+	"Joueur.h"
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Speciale.h"
+	"Deck.h"
+	<string>
+	<vector>
+	"Terrain.h"
+
+1607034950 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\joueur.cpp
+	"Joueur.h"
+	"Deck.h"
+	"Scores.h"
+	<fstream>
+	<string>
+	<direct.h>
+	<iostream>
+	<vector>
+	<time.h>
+
+1607350971 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\main.cpp
+	"Terrain.h"
+	"Menus.h"
+
+1606666477 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\pouvoir.cpp
+	"Pouvoir.h"
+	<string>
+	<iostream>
+
+1606444785 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\speciale.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1606476922 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607033594 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\switch.cpp
+	<iostream>
+	"Joueur.h"
+	"Deck.h"
+	"Switch.h"
+
+1607030323 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\switch.h
+	"Joueur.h"
+	"Deck.h"
+
+1607032189 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\terrain.h
+	"Deck.h"
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Speciale.h"
+	<vector>
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+	<time.h>
+	<string>
+
+1611084967 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\terrain.cpp
+	"Terrain.h"
+	"time.h"
+	<logg.h>
+	<iostream>
+
+1607254540 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\menus.cpp
+	"Menus.h"
+	<string>
+	<vector>
+	<fstream>
+	"Scores.h"
+
+1607030092 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\menus.h
+	"Terrain.h"
+	"Joueur.h"
+	"Jeu.h"
+	"Attaque.h"
+	"Boutique.h"
+	"Switch.h"
+
+1607272653 source:c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\scores.cpp
+	"Scores.h"
+	<fstream>
+	<iostream>
+
+1607030297 c:\users\blair\onedrive\documents\travail\informatique\projet\l'âme des cartes\scores.h
+	"Terrain.h"
+	<string>
+	<vector>
+
+1606666478 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\attaque.cpp
+	"Attaque.h"
+	<iostream>
+
+1606666478 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\attaque.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1607033715 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\pouvoir.h
+	<string>
+
+1607111619 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\boutique.cpp
+	"Boutique.h"
+	<iostream>
+	"Deck.h"
+	"Joueur.h"
+	<string>
+	<vector>
+
+1607033361 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\boutique.h
+	"Deck.h"
+	"Joueur.h"
+	"Terrain.h"
+
+1607033396 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\deck.h
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Pouvoir.h"
+	"Attaque.h"
+	"Speciale.h"
+	<string>
+	<vector>
+
+1606448385 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\cartes.h
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1606668215 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\energie.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+
+1606666699 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\dirigeant.h
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+
+1606448385 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\speciale.h
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<vector>
+
+1607033596 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\joueur.h
+	"Cartes.h"
+	"Deck.h"
+	<vector>
+	"Terrain.h"
+
+1607035789 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\terrain.h
+	"Deck.h"
+	"Cartes.h"
+	"Energie.h"
+	"Dirigeant.h"
+	"Speciale.h"
+	<vector>
+	<allegro.h>
+	<png.h>
+	<loadpng.h>
+	<jpgalleg.h>
+	<time.h>
+	<string>
+
+1606748859 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\cartes.cpp
+	"Cartes.h"
+	<string>
+	<iostream>
+
+1606590996 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\deck.cpp
+	"Deck.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<vector>
+	<algorithm>
+	<random>
+	<chrono>
+	<iostream>
+	<fstream>
+	<string>
+
+1606666699 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\dirigeant.cpp
+	"Dirigeant.h"
+	"Cartes.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+
+1606668215 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\energie.cpp
+	"Energie.h"
+	"Cartes.h"
+	"Pouvoir.h"
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+
+1607109685 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\jeu.cpp
+	"Jeu.h"
+	"Joueur.h"
+	"Scores.h"
+	<iostream>
+	<ctime>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1607033488 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\jeu.h
+	"Joueur.h"
+	"Cartes.h"
+	"Dirigeant.h"
+	"Attaque.h"
+	"Pouvoir.h"
+	"Energie.h"
+	"Speciale.h"
+	"Deck.h"
+	<string>
+	<vector>
+	"Terrain.h"
+
+1607033897 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\scores.h
+	"Terrain.h"
+	<string>
+	<vector>
+
+1607038550 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\joueur.cpp
+	"Joueur.h"
+	"Deck.h"
+	"Scores.h"
+	<fstream>
+	<string>
+	<direct.h>
+	<iostream>
+	<vector>
+	<time.h>
+
+1607354571 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\main.cpp
+	"Terrain.h"
+	"Menus.h"
+
+1607033692 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\menus.h
+	"Terrain.h"
+	"Joueur.h"
+	"Jeu.h"
+	"Attaque.h"
+	"Boutique.h"
+	"Switch.h"
+
+1607033923 c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\switch.h
+	"Joueur.h"
+	"Deck.h"
+
+1607258140 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\menus.cpp
+	"Menus.h"
+	<string>
+	<vector>
+	<fstream>
+	"Scores.h"
+
+1606670077 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\pouvoir.cpp
+	"Pouvoir.h"
+	<string>
+	<iostream>
+
+1607276253 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\scores.cpp
+	"Scores.h"
+	<fstream>
+	<iostream>
+
+1606480522 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\speciale.cpp
+	"Speciale.h"
+	<iostream>
+
+1607037194 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\switch.cpp
+	<iostream>
+	"Joueur.h"
+	"Deck.h"
+	"Switch.h"
+
+1629299989 source:c:\users\blair\onedrive\documents\travail\anciens semestres\ing2\semestre 1\informatique\projet\l'âme des cartes\terrain.cpp
+	"Terrain.h"
+	"time.h"
+	<iostream>
+

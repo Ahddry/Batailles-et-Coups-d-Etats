@@ -1,0 +1,363 @@
+DIRIGEANT
+Qin Shi Huang
+3
+Attaque eclair
+Militaire
+Unification
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Sun Tzu
+4
+Attaque eclair
+Militaire
+L'Art de la Guerre
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Alexandre le Grand
+5
+Attaque eclair 
+Militaire
+Conquerir
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Gengis Khan
+6
+Attaque eclair
+Militaire
+La Horde d'or
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Napoleon
+7
+Attaque eclair
+Militaire
+Expansion de l'Empire
+Militaire
+Militaire
+Any
+Militaire
+
+DIRIGEANT
+Henry VIII
+3
+Guerre Sainte
+Religieux
+Divorce
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Moctezuma
+4
+Guerre Sainte
+Religieux
+Quetzalcoalt
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Saladin
+5
+Guerre Sainte
+Religieux
+Le chevalier de l'islam
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Barberousse
+6
+Guerre Sainte
+Religieux
+L'empereur endormi
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Godefroy de Bouillon
+7
+Guerre Sainte
+Religieux
+Jerusalem
+Religieux
+Religieux
+Any
+Religieux
+
+DIRIGEANT
+Cresus
+3
+Ressource de luxe
+Economique
+Pactole
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Victoria
+4
+Ressource de luxe
+Economique
+Pax britannica
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Roosevelt
+5
+Ressource de luxe
+Economique
+New deal
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Mansa Moussa
+6
+Ressource de luxe
+Economique
+Le plus riche
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Louis XIV
+7
+Ressource de luxe
+Economique
+Versailles 
+Economique
+Economique
+Any
+Economique
+
+DIRIGEANT
+Gandhi
+3
+Rethorique
+Politique
+Satyagraha
+Politique
+Politique
+Any
+Politique
+
+DIRIGEANT
+Pericles
+4
+Rethorique
+Politique
+Democratie
+Politique
+Politique
+Any
+Politique
+
+DIRIGEANT
+Mandela
+5
+Rethorique
+Politique
+Nation arc-en-ciel
+Politique
+Politique
+Any
+Politique
+
+DIRIGEANT
+George Washington
+6
+Rethorique
+Politique
+Pere fondateur
+Politique
+Politique
+Any
+Politique
+
+DIRIGEANT
+Churchill
+7
+Rethorique
+Politique
+Rideau de fer
+Politique
+Politique
+Any
+Politique
+
+ENERGIE
+Troupes
+Militaire
+Forces armees.# 
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Partisants
+Politique
+Combattant n'appartenant# pas a une armee reguliere# et luttant pour un# ideal national, politique.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Or
+Economique
+Metal d'un jaune brillant,# dense, tres ductile,# inalterable a l'air et a# l'eau et qui a une tres grande# valeur commerciale.
+vide
+vide
+vide
+vide
+vide
+vide
+
+ENERGIE
+Fanatiques
+Religieux
+Qui est emporte par une# ardeur excessive,# une passion demesuree# pour une religion.
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Mines d'OR
+Les dirigeants economiques# gagnent 2 PV.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Trebuchet
+Double l'attaque des dirigeants# militaires.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Genocide
+Les dirigeants non-politiques# perdent 2 points de vie.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Croisade
+Donne 3 Pouvoirs Religieux# et 1 Pouvoir Militaire
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Peste
+Tous les dirigeants actifs# subissent 2# points de degats.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Famine
+Tous les dirigeants actifs# perdent un point# de vie pendant 3 tours. 
+Multi-tour
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Francisque
+Triple l'attaque# pendant un tour
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+SPECIALE
+Baroud
+Votre dirigeant perd 2PV# mais double son attaque.
+Usage unique
+vide
+vide
+vide
+vide
+vide
+vide
+
+DIRIGEANT
+M. Hina
+6
+Informatiqu
+Economique
+Specialiste
+Economique
+Economique
+Any
+Economique
+

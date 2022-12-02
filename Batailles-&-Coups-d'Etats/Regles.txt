@@ -1,0 +1,21 @@
+
+Batailles et coups d'Etats est un jeu de duels de cartes a collectionner
+de figures historiques. Chaque joueur est identifie dans le jeu par un compte et possede une
+collection de cartes depuis laquelle il peut creer un deck contenant un maximum de 25 cartes. 
+Il y a trois types de cartes :
+Les Pouvoirs : au nombre de 4, leur cartes generent de l'energie pour les attaques des dirigeants. 
+Les Dirigeants : tires de figures historiques, ils appartiennent a un domaine de pouvoir. 
+Ce sont les cartes actives pouvant attaquer a l'aide de deux attaques, la premiere infligeant un 
+point de degat et coutant un point du pouvoir correspondant a celui du dirigeant, la deuxieme 
+infligeant trois points de degats et coutant deux points du pouvoir correspondant et un point 
+de pouvoir quelconque. Il y en a en permanence un actif pour chaque joueur. 
+Les Speciales : six modeles uniques permettant d'alterer le cours d'une partie. 
+Un duel est joue entre deux joueurs par une serie d'affrontements entre dirigeants et prend
+fin a l'epuisement des points de vie d'un des deux joueurs ou a la mort de tous ses dirigeants. 
+Les joueurs peuvent subissent les degats excedentaires recus par les dirigeants venant de mourrir.
+Les joueurs mise chacun une carte tiree aleatoirement dans leur deck au debut de la partie et le
+vainqueur remporte les deux cartes tirees ainsi qu'un "coin" utilisable dans la boutique pour 
+l'achat de nouvelles cartes. Deux extensions sont misent a votre disposition, une permettant de
+creer vos propres cartes dirigeants et energies en donnant leurs noms et types (parmis Economique, 
+Militaire, Politique et Religieux) et l'autre vous permettant de voir qui sont les
+5 meilleurs joueurs du jeu.
