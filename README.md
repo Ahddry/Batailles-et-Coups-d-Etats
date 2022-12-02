@@ -51,8 +51,8 @@ Nous avons pendant la réalisation de ce projet intégrallement appris la progra
 
 ## Installation
 
-- [CodeBlocks 20.03](http://www.codeblocks.org/downloads/26)
-- Allegro 4.4.3, [guide d'installation par M. Fercoq](https://fercoq.bitbucket.io/allegro/distribution/tuto_installer_allegro_64.pdf)
+- [**CodeBlocks** 20.03](http://www.codeblocks.org/downloads/26)
+- **Allegro** 4.4.3, [guide d'installation par M. Fercoq](https://fercoq.bitbucket.io/allegro/distribution/tuto_installer_allegro_64.pdf)
 
 ## Contributeurs
 
